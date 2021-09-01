@@ -1,3 +1,7 @@
+## [0.0.3] - 2021-09-01
+### Added
+- test.php has been added 
+
 ## [0.0.2] - 2021-09-01
 ### Fixed
 - added a call to the phpinfo function
